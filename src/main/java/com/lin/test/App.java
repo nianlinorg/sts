@@ -8,7 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "---nianlin update---" );
-        System.out.println("---nianlin update new----");
+      System.out.println("--- lin ---");
     }
 }
