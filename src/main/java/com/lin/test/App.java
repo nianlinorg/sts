@@ -2,7 +2,6 @@ package com.lin.test;
 
 /**
  * Hello world!
- *
  */
 public class App 
 {
