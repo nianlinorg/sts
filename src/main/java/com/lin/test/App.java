@@ -7,6 +7,6 @@ public class App
 {
     public static void main( String[] args )
     {
-    	System.out.println("---lin----");
+    	System.out.println("---master liner----");
     }
 }
